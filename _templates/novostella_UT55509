@@ -6,8 +6,7 @@ image: https://user-images.githubusercontent.com/5904370/72683591-fb331f80-3ad8-
 template: '{"NAME":"Novostella 13W","GPIO":[0,0,0,0,37,40,0,0,38,41,39,0,0],"FLAG":0,"BASE":18}' 
 link: https://www.amazon.de/dp/B07SB5FHDY
 link2: https://www.amazon.co.uk/Novostella-Brightest-Dimmable-2700-6500K-Equivalent/dp/B07SGXCX44?th=1
-link3: https://www.novostella.uk/collections/smart-light-bulb/products/3-pack-13w-1300lm-b22-rgbcw-2700-6500k-smart-led-bulb
-mlink: https://www.novostella.uk/collections/smart-light-bulb/products/3-pack-13w-1300lm-b22-rgbcw-2700-6500k-smart-led-bulb
+mlink:
 flash: tuya-convert
 category: bulb
 type: RGBCCT
@@ -27,7 +26,7 @@ It seems unlikely at this point that Tuya's anti-OTA-flashing mitigations can be
 
 ## Manual Flashing
 
-This device uses an `ESP8266EX`-based Tuya [`TYWE3L` module](https://developer.tuya.com/en/docs/iot/wifie3lpinmodule?id=K9605uj1ar87n). It can be [flashed manually](https://tasmota.github.io/docs/TuyaMCU-Devices/) by attaching a UART adapter to VCC, GND, RX, and TX. To flash the device, make sure to _pull GPIO0 to ground_ on boot then release it for subsequent boots after flashing is complete.
+This device uses an `ESP8266EX`-based Tuya [`TYWE3L` module](https://developer.tuya.com/docs/iot/wifie3lpinmodule?id=K9605uj1ar87n). It can be [flashed manually](https://tasmota.github.io/docs/TuyaMCU-Devices/) by attaching a UART adapter to VCC, GND, RX, and TX. To flash the device, make sure to _pull GPIO0 to ground_ on boot then release it for subsequent boots after flashing is complete.
 
 ![TYWE3L Pinout](https://tasmota.github.io/docs/_media/pinouts/TYWE3L_pinout.jpg "TYWE3L Pinout")
 
