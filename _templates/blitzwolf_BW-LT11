@@ -15,7 +15,7 @@ chip: TYWE3S
 ## Serial Flashing
 Please see the [Hardware Preparation](https://tasmota.github.io/docs/Getting-Started/#hardware-preparation) page for general instructions.
 
-The TYWE3S Datasheet you can find directly at tuya [TYWE3S Module Datasheet](https://developer.tuya.com/en/docs/iot/device-development/module/wifi-module/we-series-module/wifie3smodule?id=K9605ua1cx9tv)
+The TYWE3S Datasheet you can find directly at tuya [TYWE3S Module Datasheet](https://developer.tuya.com/docs/iot/wifie3smodule?id=K9605ua1cx9tv)
 
 As always, you need to access the serial interface.
 The **five serial pins** (VCC, Rx, Tx, GND, GPIO0) are only available directly on the TYWE3S chip on the front of the board.
