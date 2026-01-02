@@ -27,7 +27,7 @@ The metal is rather soft, you can puncture it if you press too hard and you migh
 
 Alternatively you can just Dremel the lid out, but it's used for heat dissipation so it's better to keep it intact and reinstall it after flashing.
 
-The module is now easily accessible, and wires can be soldered on according to this [pinout](https://developer.tuya.com/en/docs/iot/wifie3lpinmodule?id=K9605uj1ar87n)
+The module is now easily accessible, and wires can be soldered on according to this [pinout](https://developer.tuya.com/docs/iot/wifie3lpinmodule?id=K9605uj1ar87n)
 
 On my bulbs after applying the template the Green and Blue channels were swapped, so 'SetOption37 6' needs to be set.
 
