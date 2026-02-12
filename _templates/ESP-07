@@ -3,10 +3,10 @@ date_added: 2021-01-04
 title: ESP-07
 model: ESP-07
 image: /assets/device_images/ESP-07.webp
-link: https://www.aliexpress.com/item/1005001320458012.html
-link2: https://www.banggood.com/3Pcs-ESP8266-ESP-07-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-p-968191.html
-link3: https://www.amazon.com/dp/B00WG9HM7W/
-mlink: http://www.ai-thinker.com/pro_view-20.html
+link: 
+link2: 
+link3: 
+mlink: https://en.ai-thinker.com/pro_view-20.html
 flash: serial
 category: diy
 type: Module
