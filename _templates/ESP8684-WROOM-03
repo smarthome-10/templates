@@ -28,4 +28,4 @@ For normal operation connect EN to VCC (pull high) to enable the chip. GPIO9 has
 
 ESP32's are power hungry on boot and the USB to serial adapter might not be able to provide enough power for that. Use a stable 3.3v power supply that can supply more than 500 mA.
 
-[Datasheet](https://www.espressif.com/sites/default/files/documentation/esp8684-wroom-03_datasheet_en.pdf)
+[Datasheet](https://documentation.espressif.com/esp8684-wroom-03_datasheet_en.pdf)
