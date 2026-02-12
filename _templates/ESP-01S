@@ -7,7 +7,7 @@ template: '{"NAME":"ESP-01","GPIO":[255,255,255,255,0,0,0,0,0,0,0,0,0],"FLAG":0,
 link: https://www.amazon.de/dp/B074RL7YR3/
 link2: 
 link3: 
-mlink: 
+mlink: https://en.ai-thinker.com/pro_view-61.html
 flash: serial
 category: diy
 type: Module
