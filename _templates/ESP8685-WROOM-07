@@ -8,9 +8,9 @@ standard: global
 image: /assets/device_images/ESP8685-WROOM-07.webp
 templatec3: '{"NAME":"ESP8685-WROOM-07","GPIO":[0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1],"FLAG":0,"BASE":1}'
 chip: c3
-mlink: https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-07_datasheet_en.pdf
-link: https://www.aliexpress.com/item/1005005221707746.html
-link2: https://www.aliexpress.com/item/1005004564415516.html
+mlink: https://documentation.espressif.com/esp8685-wroom-07_datasheet_en.pdf
+link: https://www.aliexpress.com/item/1005004564415516.html
+link2: 
 link3: 
 footprint: tylc5
 ---
@@ -29,4 +29,4 @@ For normal operation connect EN to VCC (pull high) to enable the chip. GPIO9 has
 
 ESP32's are power hungry on boot and the USB to serial adapter might not be able to provide enough power for that. Use a stable 3.3v power supply that can supply more than 500 mA.
 
-[Datasheet](https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-07_datasheet_en.pdf)
+[Datasheet](https://documentation.espressif.com/esp8685-wroom-07_datasheet_en.pdf)
