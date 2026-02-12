@@ -17,5 +17,3 @@ footprint: tylc5
 Tiny ESP8285 module 13.5x8.5x2.6mm with 2MB memory. Does not have a PCB antenna.
 
 ![Pinout](/assets/device_images/ESP-01D_pinout.webp)
-
-[Datasheet](https://docs.ai-thinker.com/_media/esp8266/docs/esp-01d_product_specification_zh_v1.0.pdf)
