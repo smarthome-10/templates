@@ -4,10 +4,10 @@ title: ESP-M2
 model: ESP-M2 
 image: /assets/device_images/ESP-M2.webp
 template9: '{"NAME":"ESP-M2","GPIO":[1,1,1,1,1,1,0,0,1,1,1,1,0,1],"FLAG":0,"BASE":18}' 
-link: https://www.aliexpress.com/item/32981273182.html
-link2: https://www.amazon.com/dp/B092VDDZT3/
-link3: https://www.amazon.de/dp/B097M5HKWQ/
-link4: https://www.banggood.com/Mini-ESP-M2-ESP8285-Serial-Wireless-WiFi-Transmission-Module-SerialNET-MODE-p-1152977.html
+link: https://www.amazon.com/dp/B092VDDZT3/
+link2: https://www.banggood.com/Mini-ESP-M2-ESP8285-Serial-Wireless-WiFi-Transmission-Module-SerialNET-MODE-p-1152977.html
+link3: 
+link4: 
 mlink: https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8285---ESP-M2
 flash: serial
 category: diy
